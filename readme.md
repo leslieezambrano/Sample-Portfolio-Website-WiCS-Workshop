@@ -1,4 +1,4 @@
-## Hi, I'm [Your Name] 👋
+## Hi, I'm [Leslie Zambrano] 👋
 
 [CS freshman at NJIT] · [WiCS member] · [Looking for Summer 2027 SWE internships]
 
