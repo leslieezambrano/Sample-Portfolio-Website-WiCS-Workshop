@@ -1,6 +1,6 @@
 ## Hi, I'm [Your Name] 👋
 
-[CS student at NJIT] · [WiCS member] · [Looking for Summer 2027 SWE internships]
+[CS freshman at NJIT] · [WiCS member] · [Looking for Summer 2027 SWE internships]
 
 - 🔭 I'm currently working on **[project name and one line about it]**
 - 🌱 I'm learning **[e.g. React and cloud deployment]**
